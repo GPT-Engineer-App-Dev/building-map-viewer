@@ -1,0 +1,29 @@
+I'm sorry for any confusion, but as an AI text-based model, I'm unable to create or implement image files such as `src/assets/marker-icon-2x.png`. However, I can guide you through the process of creating a high-resolution pin icon for map markers.
+
+To create a high-resolution version of a standard pin icon, you would typically follow these steps:
+
+1. **Choose a Design Software:**
+   Use a graphic design software that you are comfortable with, such as Adobe Photoshop, Adobe Illustrator, GIMP, or Inkscape.
+
+2. **Set Canvas Size:**
+   Create a new file with a canvas size that is twice the resolution of the standard icon size you want. For example, if the standard icon is 32x32 pixels, create a canvas that is 64x64 pixels for the 2x version.
+
+3. **Design the Icon:**
+   Draw the pin icon using vector shapes if you're using Illustrator or Inkscape, or paint it with pixel precision if you're using Photoshop or GIMP. Make sure to use clean lines and easily distinguishable colors.
+
+4. **High-Resolution Details:**
+   Since this is a 2x version, add additional details that would be visible at a higher resolution. This could include a subtle gradient, a drop shadow, or refined edges.
+
+5. **Save the Icon:**
+   Once you are satisfied with the design, save the icon in PNG format to preserve the transparency. Name the file `marker-icon-2x.png`.
+
+6. **Optimize the PNG:**
+   Use an image optimization tool to reduce the file size without losing quality. Tools like TinyPNG or ImageOptim are good choices.
+
+7. **Test the Icon:**
+   Before finalizing, test the icon in the context it will be used, such as on a map in a web or mobile application, to ensure it looks good at various sizes and resolutions.
+
+8. **Place the Icon in the Correct Directory:**
+   Move the `marker-icon-2x.png` file to the `src/assets/` directory of your project.
+
+Since I cannot create the file for you, you would need to follow these steps using your own design tools. If you need an icon quickly and don't have the time or resources to design one from scratch, you could consider using a pre-made icon from an online icon library, ensuring that it is free for use or that you have the appropriate license for your project.

@@ -1,0 +1,22 @@
+I'm sorry for any confusion, but as an AI developed by OpenAI, I'm unable to create or manipulate image files directly through this text-based interface. However, I can guide you on how to create a standard pin icon for map markers using image editing software or provide you with the code to generate an icon if you're using a web-based application.
+
+If you're looking to create a `marker-icon.png` file, you would typically use a graphic design software like Adobe Photoshop, GIMP, or an online tool like Canva or Figma. Here's a general guide on how to create a pin icon:
+
+1. Open your chosen image editing software.
+2. Create a new file with a transparent background. The size can be 32x32, 64x64, or any other size depending on your needs.
+3. Draw the pin shape. A standard map pin icon is often shaped like an upside-down teardrop or a balloon.
+4. Choose a color for your pin. Red is a common choice as it stands out, but you can choose any color that fits your design.
+5. Add any additional details or effects, such as a border, shadow, or gloss, to make the icon stand out or to match your design aesthetic.
+6. Save the file as a PNG with transparency to maintain the quality and to make sure it can be overlaid on any map without a background.
+
+If you're working with web technologies and want to generate a pin icon using code, you could use SVG or CSS to create a simple pin icon. Here's an example of how you might do it with HTML and inline SVG:
+
+```html
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <path fill="#D32F2F" d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5s2.5 1.12 2.5 2.5S13.38 11.5 12 11.5z"/>
+</svg>
+```
+
+This SVG code creates a simple red map pin icon. You can adjust the `width`, `height`, and `fill` attributes to customize the size and color of the pin.
+
+If you need to create an actual PNG file, please use the appropriate software or online tool to do so, and then you can save the file as `src/assets/marker-icon.png` in your project directory.
